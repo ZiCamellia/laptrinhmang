@@ -1,0 +1,16 @@
+﻿  ChatServer.cpp
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(39,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(46,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(51,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(57,29): error C2374: 'msg': redefinition; multiple initialization
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(50): message : see declaration of 'msg'
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(59,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(83,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(88,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(92,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(95,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(96,119): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(125,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(125,16): message : consider using '%lld' in the format string
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(125,16): message : consider using '%Id' in the format string
+C:\Users\duy01\source\repos\ChatServer\ChatServer.cpp(125,16): message : consider using '%I64d' in the format string
